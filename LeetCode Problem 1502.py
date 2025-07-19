@@ -1,3 +1,4 @@
+# Zorluk : Basit
 liste = [4, 8, 6, 2]
 
 liste.sort()
